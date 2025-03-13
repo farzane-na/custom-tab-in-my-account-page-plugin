@@ -9,7 +9,7 @@
  * Author URI:        https://farzanenazmabadi.ir/
  * Text Domain:       factor
  * Domain Path:       /languages
- * Requires Plugins:  woocommerce
+ * Requires Plugins:  woocommerce,  metronet-profile-picture
  */
 
 
